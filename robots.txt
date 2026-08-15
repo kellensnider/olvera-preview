@@ -1,0 +1,7 @@
+# MOCKUP / PREVIEW BUILD — keep out of search until the client approves launch.
+# At launch: delete these two lines, replace with "User-agent: *" / "Allow: /",
+# and remove the noindex meta tag in src/layouts/BaseLayout.astro.
+User-agent: *
+Disallow: /
+
+Sitemap: https://olverasolutions.com/sitemap-index.xml
